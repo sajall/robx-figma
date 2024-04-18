@@ -11,9 +11,7 @@ const FifthSection = () => {
             </span>
             <p>
               {" "}
-              Lorem ipsum dolor sit amet consectetur. Blandit sodales lacus
-              vulputate aenean aliquam accumsan vestibulum in sit Blandit
-              sodales lacus vulputate aenean aliquam accumsa
+             lorem standard dummy text ever since the 1500s, ipsum when an unknown printer took a galley of type and scrambled it to
             </p>
             <img src="button (2).png" alt="" />
           </div>
