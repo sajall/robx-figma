@@ -11,7 +11,7 @@ const FifthSection = () => {
             </span>
             <p>
               {" "}
-              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to
+             lorem standard dummy text ever since the 1500s, ipsum when an unknown printer took a galley of type and scrambled it to
             </p>
             <img src="button (2).png" alt="" />
           </div>
